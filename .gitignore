@@ -13,3 +13,7 @@
 /mods/deathmatch/banlist.xml
 /mods/deathmatch/mtaserver.conf
 /mods/deathmatch/vehiclecolors.conf
+
+mods/deathmatch/editor.conf
+mods/deathmatch/editor_acl.xml
+mods/deathmatch/local.conf
